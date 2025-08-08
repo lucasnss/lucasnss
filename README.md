@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Lucas Saucedo
 
-### Desarrollador Full-Stack | Especialista en E-commerce
+### Full-Stack Developer | 
 
 [![GitHub](https://img.shields.io/badge/-lucasnss-181717?style=flat&logo=github)](https://github.com/lucasnss) [![Instagram](https://img.shields.io/badge/-@yayoolucas-E4405F?style=flat&logo=instagram)](https://www.instagram.com/yayoolucas/) [![LinkedIn](https://img.shields.io/badge/-Yayo–Saucedo-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yayo-saucedo/)
 
