@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="./README.en.md">English</a> | Español
+</p>
+
+
 # 👋 Hola, soy Lucas
 
 Soy desarrollador web con enfoque en **JavaScript y el ecosistema React**.  
