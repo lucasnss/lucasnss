@@ -2,10 +2,6 @@
   English | <a href="./README.md">Español</a>
 </p>
 
-<p align="right">
-  English | <a href="./README.md">Español</a>
-</p>
-
 # 👋 Hi, I'm Lucas
 
 I'm a web developer focused on **JavaScript and the React ecosystem**.  
