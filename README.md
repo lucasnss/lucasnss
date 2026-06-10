@@ -2,7 +2,6 @@
   <a href="./README.en.md">English</a> | Español
 </p>
 
-
 # 👋 Hola, soy Lucas
 
 Soy desarrollador web con enfoque en **JavaScript y el ecosistema React**.  
@@ -19,12 +18,14 @@ Tengo una actitud proactiva frente al desarrollo: me involucro en los proyectos,
 - Integraciones con APIs y servicios externos
 - E-commerce, paneles de administración y sistemas orientados a negocio
 - Buenas prácticas, escalabilidad y mantenibilidad
+- Desarrollo asistido por IA con **Claude Code**
 
 ---
 
 ## 🛠️ Tecnologías que utilizo
 
 ### Lenguajes y frameworks
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
@@ -42,6 +43,7 @@ Tengo una actitud proactiva frente al desarrollo: me involucro en los proyectos,
 </div>
 
 ### UI, estilos y herramientas
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
@@ -53,6 +55,7 @@ Tengo una actitud proactiva frente al desarrollo: me involucro en los proyectos,
 </div>
 
 ### Backend, datos y tooling
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
   <img width="12" />
@@ -61,6 +64,20 @@ Tengo una actitud proactiva frente al desarrollo: me involucro en los proyectos,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" />
+</div>
+
+### IA & Automatización
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" height="28" alt="Claude Code" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="ChatGPT" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="28" alt="Cursor" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="v0" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Antigravity-6366F1?style=for-the-badge&logoColor=white" height="28" alt="Antigravity" />
 </div>
 
 ---
