@@ -86,3 +86,4 @@ Tengo una actitud proactiva frente al desarrollo: me involucro en los proyectos,
 
 - 📱 WhatsApp: **+54 9 3813 55-4711**
 - 📧 Email: **lksyayo@gmail.com**
+- 💼 Portfolio: **https://saucedolucas.vercel.app/**
