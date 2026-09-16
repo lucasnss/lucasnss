@@ -6,39 +6,49 @@
 
 Desarrollador **Full-Stack** orientado a **JavaScript y TypeScript**, con Node.js y Express en el backend y React y Next.js en el frontend.
 
-Trabajo el ciclo completo de un producto: modelo de datos, API, interfaz y despliegue. Tengo aplicaciones propias y de clientes **funcionando en producción**, y experiencia en equipo con testing automatizado, control de versiones y documentación de APIs.
+Trabajo el ciclo completo de un producto: modelo de datos, API, interfaz y despliegue. Tengo aplicaciones en producción para clientes reales y experiencia en equipo con testing automatizado y documentación de APIs.
 
 Me adapto rápido a stacks nuevos: entregué proyectos backend en **Laravel** sin experiencia previa en PHP.
 
 ---
 
-## 🚀 En producción
+## 🚀 Qué construí
 
-### [Fradi Compresores](https://fradicompresores.com.ar/) · *Cliente freelance*
+### Catálogo web con panel de administración | Fradi Compresores
 
-Catálogo web autogestionable para una empresa de aire comprimido con más de 65 años en Tucumán.
+`Next.js 16` · `React 19` · `TypeScript` · `Supabase` · `Tailwind CSS`
 
-`Next.js 16` `React 19` `TypeScript` `Supabase` `Tailwind CSS`
+Sitio con catálogo de productos que el cliente carga y edita por su cuenta, sin depender de mí. Panel privado con CRUD de productos, categorías e imágenes, protegido con Supabase Auth y **Row Level Security** a nivel de base de datos. Compresión de imágenes del lado del cliente antes de la subida, consulta por WhatsApp por producto y bandeja de mensajes de contacto. Entregado y en producción.
 
-Panel privado con CRUD de productos, categorías e imágenes · Supabase Auth con **Row Level Security** a nivel de base de datos · compresión de imágenes del lado del cliente antes de la subida · consulta por WhatsApp por producto y bandeja de mensajes de contacto.
+### Tienda online con pasarela de pagos | Vivero El Ombú
 
-### E-Commerce Vivero El Ombú
+`Next.js 14` · `TypeScript` · `Supabase (PostgreSQL)` · `Mercado Pago` · `JWT`
 
-Tienda online completa, de la arquitectura al despliegue.
+E-commerce completo, de la arquitectura al despliegue. Autenticación con control de acceso por roles, panel de administración de productos, categorías y ventas, carrito con gestión de stock en tiempo real y checkout con Mercado Pago, con webhooks que actualizan el estado de las órdenes de forma automática.
 
-`Next.js 14` `TypeScript` `Supabase (PostgreSQL)` `Mercado Pago` `JWT`
+### E-commerce B2C con catálogo administrable | SACO
 
-Autenticación con control de acceso por roles · panel de administración de productos, categorías y ventas · carrito con gestión de stock en tiempo real · checkout con Mercado Pago y webhooks para la actualización automática del estado de las órdenes.
+`Laravel 12` · `PHP 8.5` · `PostgreSQL` · `React/Inertia.js` · `Tailwind CSS v4` · `Pest`
 
-### Sistema de Gestión de Tesis — UTN
+Contractor en Orvalis. Lideré el diseño de la arquitectura y coordiné el desarrollo de backend y frontend con el equipo. Construí el módulo de catálogo: CRUD de productos, variantes y categorías con importación masiva por CSV y carga de imágenes a Cloudinary, control de acceso por roles, CMS de contenido estático y motor de descuentos progresivos. 100% de cobertura de tests y análisis estático en nivel estricto.
 
-API RESTful para el repositorio académico de proyectos finales.
+### ERP multi-sucursal con facturación electrónica
 
-`Node.js` `Express.js` `MongoDB`
+`Laravel 12` · `PHP 8.2` · `PostgreSQL` · `Redis` · `AFIP SDK` · `PHPUnit`
 
-CRUD completo · carga de archivos e indexación de documentos · búsqueda y filtrado por título, año y autor.
+Contractor en Orvalis. Diseñé e implementé la arquitectura backend completa: modelo de datos, capa de servicios y acceso a datos. Módulos de gestión de stock multi-sucursal, facturación electrónica AFIP y motor de decisión fiscal con tres modos operativos. TDD estricto con 992+ tests en verde y varios módulos ya en producción. En desarrollo.
 
-> 📂 El detalle de cada proyecto está en mi **[portfolio](https://saucedolucas.vercel.app/)**.
+### API REST para repositorio académico | UTN
+
+`Node.js` · `Express.js` · `MongoDB`
+
+Backend para la gestión de tesis y proyectos finales universitarios. CRUD completo, carga de archivos e indexación de documentos, y búsqueda y filtrado por título, año y autor.
+
+### Componente de filtrado configurable | Filtro Avanzado
+
+`React` · `TypeScript`
+
+Sistema de filtrado multi-criterio que se define por configuración: los criterios, operadores y combinaciones se declaran sin tocar el código que lo consume. Reemplaza búsquedas básicas en catálogos.
 
 ---
 
@@ -72,6 +82,8 @@ CRUD completo · carga de archivos e indexación de documentos · búsqueda y fi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
 </div>
 
 ### UI y estilos
