@@ -4,21 +4,41 @@
 
 # 👋 Hola, soy Lucas
 
-Soy desarrollador web con enfoque en **JavaScript y el ecosistema React**.  
-Trabajo principalmente en proyectos web, tanto frontend como backend, priorizando código claro, soluciones prácticas y productos que realmente funcionen.
+Desarrollador **Full-Stack** orientado a **JavaScript y TypeScript**, con Node.js y Express en el backend y React y Next.js en el frontend.
 
-Tengo una actitud proactiva frente al desarrollo: me involucro en los proyectos, busco entender el problema completo y estoy **activamente aprendiendo nuevas tecnologías y buenas prácticas** para mejorar la calidad de mi trabajo día a día.
+Trabajo el ciclo completo de un producto: modelo de datos, API, interfaz y despliegue. Tengo aplicaciones propias y de clientes **funcionando en producción**, y experiencia en equipo con testing automatizado, control de versiones y documentación de APIs.
+
+Me adapto rápido a stacks nuevos: entregué proyectos backend en **Laravel** sin experiencia previa en PHP.
 
 ---
 
-## 🚀 Enfoque de desarrollo
+## 🚀 En producción
 
-- Desarrollo web moderno
-- Aplicaciones con React y Next.js
-- Integraciones con APIs y servicios externos
-- E-commerce, paneles de administración y sistemas orientados a negocio
-- Buenas prácticas, escalabilidad y mantenibilidad
-- Desarrollo asistido por IA con **Claude Code**
+### [Fradi Compresores](https://fradicompresores.com.ar/) · *Cliente freelance*
+
+Catálogo web autogestionable para una empresa de aire comprimido con más de 65 años en Tucumán.
+
+`Next.js 16` `React 19` `TypeScript` `Supabase` `Tailwind CSS`
+
+Panel privado con CRUD de productos, categorías e imágenes · Supabase Auth con **Row Level Security** a nivel de base de datos · compresión de imágenes del lado del cliente antes de la subida · consulta por WhatsApp por producto y bandeja de mensajes de contacto.
+
+### E-Commerce Vivero El Ombú
+
+Tienda online completa, de la arquitectura al despliegue.
+
+`Next.js 14` `TypeScript` `Supabase (PostgreSQL)` `Mercado Pago` `JWT`
+
+Autenticación con control de acceso por roles · panel de administración de productos, categorías y ventas · carrito con gestión de stock en tiempo real · checkout con Mercado Pago y webhooks para la actualización automática del estado de las órdenes.
+
+### Sistema de Gestión de Tesis — UTN
+
+API RESTful para el repositorio académico de proyectos finales.
+
+`Node.js` `Express.js` `MongoDB`
+
+CRUD completo · carga de archivos e indexación de documentos · búsqueda y filtrado por título, año y autor.
+
+> 📂 El detalle de cada proyecto está en mi **[portfolio](https://saucedolucas.vercel.app/)**.
 
 ---
 
@@ -39,51 +59,59 @@ Tengo una actitud proactiva frente al desarrollo: me involucro en los proyectos,
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
 </div>
 
-### UI, estilos y herramientas
+### Bases de datos
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+</div>
+
+### UI y estilos
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook" />
 </div>
 
-### Backend, datos y tooling
+### Herramientas y despliegue
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" />
 </div>
 
-### IA & Automatización
+---
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" height="28" alt="Claude Code" />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="ChatGPT" />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="28" alt="Cursor" />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="v0" />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Antigravity-6366F1?style=for-the-badge&logoColor=white" height="28" alt="Antigravity" />
-</div>
+## 🧪 Cómo trabajo
+
+- **Testing automatizado** — TDD (red → green) con Pest y PHPUnit; análisis estático con PHPStan en nivel estricto
+- **APIs documentadas** — contratos REST escritos para que otro equipo los consuma sin preguntar
+- **Seguridad en la base de datos** — control de acceso por roles y Row Level Security, no solo validación en el frontend
+- **Git y backlog** — ramas, revisión de código y gestión de issues en GitHub
+- **IA como herramienta** — uso Claude Code en el día a día para acelerar refactors, tests y documentación; las decisiones de arquitectura las tomo yo
 
 ---
 
 ## 📬 Contacto
 
-- 📱 WhatsApp: **+54 9 3813 55-4711**
-- 📧 Email: **lksyayo@gmail.com**
-- 💼 Portfolio: **https://saucedolucas.vercel.app/**
+- 📧 **lksyayo@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/yayo-saucedo/)
+- 🌐 [Portfolio](https://saucedolucas.vercel.app/)
